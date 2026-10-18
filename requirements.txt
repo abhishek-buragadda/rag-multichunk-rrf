@@ -1,0 +1,7 @@
+lancedb>=0.39
+pyarrow
+numpy
+sentence-transformers>=5.0
+torch
+tqdm
+pytest
